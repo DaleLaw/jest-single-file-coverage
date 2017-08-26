@@ -1,0 +1,31 @@
+{
+  "name": "jest-single-file-coverage",
+  "version": "1.0.0",
+  "description": "Automatic jest single file coverage for react-boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/test-one.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaleLaw/jest-single-file-coverage.git"
+  },
+  "keywords": [
+    "jest",
+    "react-boilerplate",
+    "coverage",
+    "single",
+    "file"
+  ],
+  "author": "Dale Law",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaleLaw/jest-single-file-coverage/issues"
+  },
+  "homepage": "https://github.com/DaleLaw/jest-single-file-coverage#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "jest-cli": "^20.0.4"
+  },
+  "devDependencies": {}
+}
