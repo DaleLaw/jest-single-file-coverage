@@ -23,6 +23,9 @@
     "url": "https://github.com/DaleLaw/jest-single-file-coverage/issues"
   },
   "homepage": "https://github.com/DaleLaw/jest-single-file-coverage#readme",
+  "bin": {
+    "jest-single-file-coverage": "index.js"
+  },
   "dependencies": {
     "chalk": "^2.1.0",
     "jest-cli": "^20.0.4"
