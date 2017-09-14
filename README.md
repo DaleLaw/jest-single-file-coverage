@@ -6,7 +6,7 @@ A little helper to test a single file in [react-boilerplate](https://github.com/
 ### Usage
 First, install the package
 ```
-  npm install jest-single-file-coverage
+  npm install --save-dev jest-single-file-coverage
 ```
 Add this line to package.json `scripts` section
 ```json
